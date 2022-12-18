@@ -1,0 +1,14 @@
+Sarah: IAM FULL ACCESS
+arn:aws:iam::845445232183:user/Sarah
+
+Sam: admin
+arn:aws:iam::845445232183:user/Sam
+
+Pain: admin and codestar owner
+845445232183
+
+Zurina: AmazonEC2FULL ACCESS
+845445232183
+
+
+
